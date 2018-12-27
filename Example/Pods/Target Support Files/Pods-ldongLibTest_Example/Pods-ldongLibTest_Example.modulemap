@@ -1,0 +1,6 @@
+framework module Pods_ldongLibTest_Example {
+  umbrella header "Pods-ldongLibTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

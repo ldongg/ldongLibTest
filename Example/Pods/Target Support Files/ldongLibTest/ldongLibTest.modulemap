@@ -1,0 +1,6 @@
+framework module ldongLibTest {
+  umbrella header "ldongLibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
